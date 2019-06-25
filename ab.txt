@@ -1,0 +1,1 @@
+﻿git学习训练，，在node里当版本控制装置，查看所有配置项：git config --list,初始化git init。
