@@ -1,1 +1,1 @@
-﻿git学习训练，，在node里当版本控制装置，查看所有配置项：git config --list,初始化git init。
+﻿git学习训练，，在node里当版本控制装置，查看所有配置项：git config --list,初始化git init。工作区：用git status查看修改文件，暂存区：用git add .添加状态（点：对当下所有的更改添加到暂存区）；版本库：用git commit -m "xxx",将暂存区的修改提交到版本库，形成固定的版本保存下来，-m后面的引号内是注释说明。工作区红色显示，暂存区绿色区显示。
